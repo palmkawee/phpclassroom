@@ -12,6 +12,22 @@
           echo "<tr>";
           echo "<td>คอลัมน์ที่ 2</td>";       
           echo "</tr>";
+          
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 3</td>";       
+          echo "</tr>";
+          
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 4</td>";       
+          echo "</tr>";
+          
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 5</td>";       
+          echo "</tr>";
+          
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 6</td>";       
+          echo "</tr>";
         }
       ?>
     </table>
