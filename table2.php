@@ -6,9 +6,11 @@
         $row = 100;
         for($i=0;$i<$row;$i++){
           echo "<tr>";
-          echo "<td>คอลัมน์ที่ 1</td>";
-          echo "<td>คอลัมน์ที่ 1</td>";
-        
+          echo "<td>คอลัมน์ที่ 1</td>";       
+          echo "</tr>";
+          
+          echo "<tr>";
+          echo "<td>คอลัมน์ที่ 2</td>";       
           echo "</tr>";
         }
       ?>
