@@ -5,7 +5,7 @@ $data = json_decode($json);
 
 
 foreach($data as $Key=>$val){
-  echo $val->province."<br>";
+  echo $val->province." : ".$val->new_case."<br>";
   
 }
 
