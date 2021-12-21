@@ -21,15 +21,15 @@
     echo ($key+1);
     echo "</td>";
     
-    echo "<td bgcolor='#B0E0E6'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->province;
     echo "</td>";
     
-    echo "<td bgcolor='#B0C4DE'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->new_case;
     echo "</td>";
     
-    echo "<td bgcolor='#A9C8C0'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->total_case;
     echo "</td>";
     
@@ -37,15 +37,15 @@
     echo $val->new_case_excludeabroad;
     echo "</td>";
     
-    echo "<td bgcolor='#FFD1BB'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->total_case_excludeabroad;
     echo "</td>";
     
-    echo "<td bgcolor='#FFB4B4'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->new_death;
     echo "</td>";
     
-    echo "<td bgcolor='#E9967A'>";
+    echo "<td bgcolor=''#FDFFBC'>";
     echo $val->total_death;
     echo "</td>";
   }
